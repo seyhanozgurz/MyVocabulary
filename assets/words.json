@@ -1,0 +1,118 @@
+{
+  "words": [
+    {
+      "id": 0,
+      "word": "Comprehension",
+      "definition": "The ability to understand completely and be familiar with a situation",
+      "exampleSentences": [
+        "He has no comprehension of the size of the problem.",
+        "Good reading comprehension skils are essential."
+      ],
+      "image": "https://raw.githubusercontent.com/seyhanozgurz/JSONDataset/refs/heads/main/badem.png"
+    },
+    {
+      "id": 1,
+      "word": "Gloomy",
+      "definition": "Unhappy and without hope",
+      "exampleSentences": ["A gloomy person.", "That cave is a gloomy place."],
+      "image": "https://raw.githubusercontent.com/seyhanozgurz/JSONDataset/refs/heads/main/ceviz.png"
+    },
+    {
+      "id": 2,
+      "word": "Vanish",
+      "definition": "to disappear or stop being present or existing, especially in a sudden, surprising way.",
+      "exampleSentences": [
+        "The child vanished while on her way home From school.",
+        "Cheap rural housing is vanishing in the country."
+      ]
+    },
+    {
+      "id": 3,
+      "word": "Coherent",
+      "definition": "If an argument, set of ideas, or a plan is coherent, it is clear and carefully considered. ",
+      "exampleSentences": [
+        "You can not expect coherent behaviour from someone under stress.",
+        "The authors writing is known for its coherent structure, making it easy for readers to follow the story.",
+        "The professor provided a coherent explanation of the complex scientific concept."
+      ]
+    },
+    {
+      "id": 4,
+      "word": "Infrastructure",
+      "definition": "",
+      "exampleSentences": [
+        "The war has baddly damaged the country's infrastructure.",
+        "The minister is responsible for the country's transportation infrastructure.",
+        "More money is needed to maintain the city's infrastructure."
+      ]
+    },
+    {
+      "id": 5,
+      "word": "Inherent",
+      "definition": "Existing as a natural or basic part of something",
+      "exampleSentences": [
+        "She believes that goodness is inherent in all people.",
+        "The team recognized the inherent challenges of the project but remained determined to overcome obstacles and achieve success."
+      ]
+    },
+    {
+      "id": 6,
+      "word": "Convenient",
+      "definition": "Suitable for your purposes and needs and causing the east difficulty",
+      "exampleSentences": [
+        "Our local shop has very convenient opening hours.",
+        "A bike is a very convenient way of getting around.",
+        "The house is in a convenient location for traveling to London."
+      ]
+    },
+    {
+      "id": 7,
+      "word": "Govern",
+      "definition": "to officially control a country",
+      "exampleSentences": [
+        "Our country is still governed by erduran.",
+        "Relations are often governed by economic factors."
+      ]
+    },
+    {
+      "id": 8,
+      "word": "Elicit",
+      "definition": "to get information or a reaction from someone",
+      "exampleSentences": [
+        "You have to ask the right questions to elicit the information you want",
+        "The artist's work elicits strong emotional responses from viewers",
+        "She is been trying to elicit the support of other committee members"
+      ]
+    },
+    {
+      "id": 9,
+      "word": "Alleviate",
+      "definition": "to make problems or suffering less extreme",
+      "exampleSentences": [
+        "She's been given some tablets to alleviate the pain",
+        "The crop is a source of cash for farmers in the rural areas, thus alleviateing poverty and creating employment"
+      ]
+    },
+    {
+      "id": 10,
+      "word": "Poverty",
+      "definition": "The state of being very poor",
+      "exampleSentences": ["He came from poverty", "families living in poverty"]
+    },
+    {
+      "id": 11,
+      "word": "Ephemeral",
+      "definition": "Lasting for only a short time",
+      "exampleSentences": [
+        "We live this very ephemeral life",
+        "Swimming here is very ephemeral pleasure",
+        "Concentrate on remembering the ephemeral moments"
+      ]
+    },
+    {
+      "word": "",
+      "definition": "",
+      "exampleSentences": ["", ""]
+    }
+  ]
+}
