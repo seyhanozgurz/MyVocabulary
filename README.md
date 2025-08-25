@@ -1,50 +1,17 @@
-# Welcome to your Expo app 👋
+# MyVocabulary
+A mobile application built with React Native (Expo), Firebase, and JavaScript to help users memorize English words more effectively. Users can add their own vocabulary entries with an image, a definition, and example sentences. This way, learning becomes more personalized and engaging.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Features:
 
-## Get started
+Add new words with a related image, description, and example sentences
 
-1. Install dependencies
+Store and manage personal vocabulary in Firebase
 
-   ```bash
-   npm install
-   ```
+Simple and user-friendly interface for everyday use
 
-2. Start the app
+Designed for personal learning needs but adaptable for anyone
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+##📱 Screenshots:
+![image](https://github.com/user-attachments/assets/51e81846-f6d5-4f1d-bf1c-390fe9f0d61f)
+![image](https://github.com/user-attachments/assets/fefd496b-0165-4e83-871a-5fb411c5f61c)
+![image](https://github.com/user-attachments/assets/5974bbe2-da4f-4877-899d-a246ef597ce6)
